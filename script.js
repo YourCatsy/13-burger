@@ -93,7 +93,7 @@ class Hamburger {
     }
 }
 
-let hamburger = new Hamburger(Hamburger.SIZE_BIG);
+const hamburger = new Hamburger(Hamburger.SIZE_BIG);
 
 hamburger.addTopping(Hamburger.TOPPING_MAYO);
 
